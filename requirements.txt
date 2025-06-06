@@ -1,0 +1,7 @@
+openai
+requests
+numpy
+beautifulsoup4
+scikit-learn
+PyMuPDF
+pathlib
