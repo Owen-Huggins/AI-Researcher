@@ -1,0 +1,5 @@
+## Local Files
+/.idea
+.env
+.venv
+Database/
